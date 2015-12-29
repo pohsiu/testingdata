@@ -1,0 +1,1 @@
+NoneType error < no attribute, (表示沒有request到) 用try except包起來防止跳停//重開爬蟲即可

@@ -1,0 +1,5 @@
+ChunkedEncodingError
+Solution: Http連線有誤 重啟python爬蟲
+
+Unicode encode error
+Solution: encode('utf8')
